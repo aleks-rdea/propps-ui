@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icons/large/user</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/large/user" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#000000" stroke-width="2" cx="32" cy="30" r="14"></circle>
+        <path d="M32,44 C27.6434904,44 23.5697481,45.2109313 20.097604,47.3152412 C16.7294021,49.3565564 13.9270674,52.2379532 11.9814297,55.6690125 C17.3812942,60.2425654 24.3686491,63 32,63 C39.6310908,63 46.6182281,60.2427473 52.0195658,55.6691 C50.0733458,52.2374277 47.2704839,49.3560231 43.9018557,47.3147612 C40.4297081,45.2107704 36.3562192,44 32,44 Z" id="Combined-Shape" stroke="#000000" stroke-width="2"></path>
+        <circle id="Oval-Copy" stroke="#000000" stroke-width="2" cx="32" cy="32" r="31"></circle>
+    </g>
+</svg>

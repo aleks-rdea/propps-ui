@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icons/change</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/change" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22.1,23.9246359 C24.4719292,22.0961324 26,19.2265162 26,16 C26,10.4771525 21.5228475,6 16,6 L16,4 C22.627417,4 28,9.372583 28,16 C28,19.5840776 26.4287353,22.8011666 23.9374732,25 L28.1,25 L28.1,27 L20.1,27 L20.1,19 L22.1,19 L22.1,23.9246359 Z M10,7.99926763 C7.5711066,9.82368029 6,12.7283643 6,16 C6,21.5228475 10.4771525,26 16,26 L16,28 C9.372583,28 4,22.627417 4,16 C4,12.4159224 5.57126466,9.19883336 8.06252681,7 L4,7 L4,5 L12,5 L12,13 L10,13 L10,7.99926763 L10,7.99926763 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

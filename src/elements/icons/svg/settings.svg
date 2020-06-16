@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icons/settings</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/settings" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22,13 L22,19 L20,19 L20,17 L4,17 L4,15 L20,15 L20,13 L22,13 Z M24,15 L28,15 L28,17 L24,17 L24,15 Z M12,5 L12,11 L10,11 L10,9 L4,9 L4,7 L10,7 L10,5 L12,5 Z M14,7 L28,7 L28,9 L14,9 L14,7 Z M12,21 L12,27 L10,27 L10,25 L4,25 L4,23 L10,23 L10,21 L12,21 Z M14,23 L28,23 L28,25 L14,25 L14,23 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

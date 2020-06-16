@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icons/bag</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/bag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,0 C19.3137085,0 22,2.6862915 22,6 L22,7 L28,7 L28,28 L4,28 L4,7 L10,7 L10,6 C10,2.6862915 12.6862915,0 16,0 Z M26,9 L6,9 L6,26 L26,26 L26,9 Z M16,2 C13.790861,2 12,3.790861 12,6 L12,7 L20,7 L20,6 C20,3.790861 18.209139,2 16,2 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

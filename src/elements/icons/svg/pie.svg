@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icons/pie</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/pie" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17,2 C24.7319865,2 31,8.2680135 31,16 L17,16 L17,2 Z M16,3 L16,17 L30,17 C30,24.7319865 23.7319865,31 16,31 C8.2680135,31 2,24.7319865 2,17 C2,9.2680135 8.2680135,3 16,3 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

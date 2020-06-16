@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icons/print</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/print" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25,3 L25,9 L29,9 L29,23 L25,23 L25,29 L7,29 L7,23 L3,23 L3,9 L7,9 L7,3 L25,3 Z M23,18 L9,18 L9,27 L23,27 L23,18 Z M24.5,12 C23.6715729,12 23,12.6715729 23,13.5 C23,14.3284271 23.6715729,15 24.5,15 C25.3284271,15 26,14.3284271 26,13.5 C26,12.6715729 25.3284271,12 24.5,12 Z M23,5 L9,5 L9,9 L23,9 L23,5 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,13 +1,16 @@
-import React, { Component } from 'react'
+import React, { Fragment, useContext } from 'react'
 
-import ExampleComponent from 'propps-ui'
+import { GlobalStyle } from 'propps-ui'
 
-export default class App extends Component {
-  render () {
-    return (
-      <div>
-        <ExampleComponent text='Modern React component module' />
-      </div>
-    )
-  }
+import Offer from './pages/Offer'
+
+const App = props => {
+  return (
+    <Fragment>
+      <GlobalStyle modern />
+      <Offer />
+    </Fragment>
+  )
 }
+
+export default App

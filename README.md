@@ -18,13 +18,56 @@ import React, { Component } from 'react'
 import MyComponent from 'propps-ui'
 
 class Example extends Component {
-  render () {
-    return (
-      <MyComponent />
-    )
+  render() {
+    return <MyComponent />
   }
 }
 ```
+
+## To do
+
+https://scrollrevealjs.org/
+https://tympanus.net/Development/ScrollingLettersAnimation/
+https://tympanus.net/Development/MorphingBackgroundShapes/index2.html
+https://tympanus.net/Tutorials/CSSGlitchEffect/
+https://tympanus.net/Development/LineMenuStyles/
+https://tympanus.net/Development/TiltHoverEffects/
+https://tympanus.net/Development/AnimatedCustomCursor/index2.html
+
+### Theme
+
+- Fonts
+- Colours
+
+### Elements
+
+- Button
+- Input
+- Typography
+
+### Components
+
+- Dropdown menu
+- List
+- Section header
+- Breadcrumb
+
+### Layouts
+
+- Single stack
+- Double stack
+- Drawer
+- Bottom Sheet
+- Modal Sheet
+- Notification
+- Messages sheet
+- Menu
+
+### Templates
+
+- Flow
+- Messaging
+- Item grid
 
 ## License
 

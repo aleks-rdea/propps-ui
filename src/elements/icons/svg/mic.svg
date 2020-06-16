@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icons/mic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/mic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M24,16 C24,20.0796177 20.9463116,23.4460082 17,23.9381062 L17,26 L20,26 L20,28 L12,28 L12,26 L15,26 L15,23.9381062 C11.0536884,23.4460082 8,20.0796177 8,16 L8,14 L10,14 L10,16 C10,19.3137085 12.6862915,22 16,22 C19.3137085,22 22,19.3137085 22,16 L22,14 L24,14 L24,16 Z M16,4 C18.209139,4 20,5.790861 20,8 L20,16 C20,18.209139 18.209139,20 16,20 C13.790861,20 12,18.209139 12,16 L12,8 C12,5.790861 13.790861,4 16,4 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

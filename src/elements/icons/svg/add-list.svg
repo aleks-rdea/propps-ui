@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icons/add-list</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/add-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22,23 L22,19 L24,19 L24,23 L28,23 L28,25 L24,25 L24,29 L22,29 L22,25 L18,25 L18,23 L22,23 Z M4,15 L28,15 L28,17 L4,17 L4,15 Z M4,7 L28,7 L28,9 L4,9 L4,7 Z M4,23 L14,23 L14,25 L4,25 L4,23 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

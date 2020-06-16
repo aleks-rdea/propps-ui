@@ -9,6 +9,7 @@ import svgr from '@svgr/rollup'
 import pkg from './package.json'
 
 export default {
+  external: ['react', 'react-dom', 'react-scripts'],
   input: 'src/index.js',
   output: [
     {
@@ -31,9 +32,37 @@ export default {
     svgr(),
     babel({
       exclude: 'node_modules/**',
-      plugins: [ 'external-helpers' ]
+      plugins: ['external-helpers']
     }),
     resolve(),
-    commonjs()
+    commonjs({
+      include: 'node_modules/**',
+      // left-hand side can be an absolute path, a path
+      // relative to the current directory, or the name
+      // of a module in node_modules
+      namedExports: {
+        // react: Object.keys(react),
+        // 'react-dom': Object.keys(reactDom),
+        // 'node_modules/react/index.js': [
+        //   'cloneElement',
+        //   'createContext',
+        //   'Component',
+        //   'createElement',
+        //   'useContext',
+        //   'useState',
+        //   'useMemo',
+        //   'useEffect',
+        //   'useRef',
+        //   'useDebugValue'
+        // ],
+        // 'node_modules/react-dom/index.js': ['render', 'hydrate'],
+        'node_modules/react-is/index.js': [
+          'typeOf',
+          'isElement',
+          'isValidElementType',
+          'ForwardRef'
+        ]
+      }
+    })
   ]
 }

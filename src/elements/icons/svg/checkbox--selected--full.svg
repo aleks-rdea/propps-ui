@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icons/checkbox--selected--full</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/checkbox--selected--full" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M26,2 C28.209139,2 30,3.790861 30,6 L30,26 C30,28.209139 28.209139,30 26,30 L6,30 C3.790861,30 2,28.209139 2,26 L2,6 C2,3.790861 3.790861,2 6,2 L26,2 Z M22.3409091,11 L13.8863636,19.4375 L9.65909091,15.21875 L8.25,16.625 L13.1818182,21.546875 L13.8863636,22.25 L23.75,12.40625 L22.3409091,11 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

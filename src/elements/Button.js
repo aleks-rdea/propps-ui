@@ -1,16 +1,20 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 
-import styles from './Button.scss'
+import ButtonWrapper from './Button.styles.js'
 
-const Button = props => {
+const Button = ({ label, primary, cta, fixed, small, ...props }) => {
   return (
-    <div className={styles.button + ' ' + styles.primary}>{props.label}</div>
+    <ButtonWrapper
+      primary={primary}
+      cta={cta}
+      fixed={fixed}
+      small={small}
+      className={cta && 'cta'}
+      {...props}
+    >
+      {label}
+    </ButtonWrapper>
   )
-}
-
-Button.propTypes = {
-  label: PropTypes.string
 }
 
 export default Button

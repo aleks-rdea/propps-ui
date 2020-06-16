@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icons/radio--tick--full</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/radio--tick--full" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,2 C23.7319865,2 30,8.2680135 30,16 C30,23.7319865 23.7319865,30 16,30 C8.2680135,30 2,23.7319865 2,16 C2,8.2680135 8.2680135,2 16,2 Z M22.3409091,11 L13.8863636,19.4375 L9.65909091,15.21875 L8.25,16.625 L13.1818182,21.546875 L13.8863636,22.25 L23.75,12.40625 L22.3409091,11 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
